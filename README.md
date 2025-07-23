@@ -17,7 +17,7 @@ A web-based tool for image inpainting using Stable Diffusion and interactive mas
    pip install -r requirements.txt
    ```
 
-3. Download the Segment Anything model weights and place them in the `weights/` directory.  
+3. Download the Segment Anything model weights [here](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth) and place them in the `weights/` directory.  
    Example: `weights/sam_vit_h_4b8939.pth`
    update the `checkpoint` veriable to the relative path of the model weights
 
