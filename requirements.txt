@@ -1,0 +1,6 @@
+torch
+numpy
+gradio
+diffusers
+segment_anything
+Pillow
